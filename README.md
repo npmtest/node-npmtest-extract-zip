@@ -1,4 +1,7 @@
-# test coverage for  [extract-zip (v1.6.0)](https://github.com/maxogden/extract-zip)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-zip.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-zip)
+# npmtest-extract-zip
+
+#### basic test coverage for  [extract-zip (v1.6.0)](https://github.com/maxogden/extract-zip)  [![npm package](https://img.shields.io/npm/v/npmtest-extract-zip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-extract-zip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-extract-zip.svg)](https://travis-ci.org/npmtest/node-npmtest-extract-zip)
+
 #### unzip a zip file into a directory using 100% pure gluten-free organic javascript
 
 [![NPM](https://nodei.co/npm/extract-zip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/extract-zip)
